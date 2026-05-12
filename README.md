@@ -32,7 +32,7 @@ Git • GitHub • Agile • Scrum
 ## 📂 My Portfolio Projects
 
 ### 🧪 QA Manual Testing
-🔗 https://github.com/YOUR-USERNAME/QA-Manual-Testing-Portfolio
+🔗 [https://github.com/Decm299-QA/QA-Manual-Testing-Portfolio.git]
 
 Includes:
 - Test Plan
