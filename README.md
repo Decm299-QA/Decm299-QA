@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David
 
-🎯 Analista de control de calidad junior | Futuro analista de datos
+🎯 Analista de control de calidad | analista de datos
 📍 Portugal
 
 ---
