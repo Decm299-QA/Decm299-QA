@@ -53,7 +53,7 @@ Includes:
 ---
 
 ### 📊 Data Analytics Portfolio
-🔗 https://github.com/YOUR-USERNAME/Data-Analytics-Portfolio
+🔗 https://github.com/Decm299-QA/Data-Analytics-Portfolio.git
 
 Includes:
 - SQL database project
