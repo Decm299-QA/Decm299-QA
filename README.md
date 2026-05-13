@@ -1,71 +1,70 @@
-# 👋 Hello! I'm David
+# 👋 ¡Hola! Soy David
 
-🎯 Junior QA Tester | Aspiring Data Analyst  
-📍 Portugal  
-
----
-
-## 👨‍💻 About Me
-I am a Junior QA Tester with ISTQB CTFL certification transitioning into Data Analytics.
-
-I enjoy testing applications, finding bugs and extracting insights from data.
-
-Currently building my professional portfolio in:
-- Manual Testing
-- API Testing
-- SQL & Data Analysis
+🎯 Analista de control de calidad junior | Futuro analista de datos
+📍 Portugal
 
 ---
 
-## 🧰 Tech & Tools
+## 👨‍💻 Sobre mí
+Soy un probador de control de calidad  con certificación ISTQB CTFL y  análista de datos con especialidad en comercio electronico.
+
+Me gusta probar aplicaciones, encontrar errores y extraer información valiosa de los datos.
+
+Actualmente estoy desarrollando mi portafolio profesional en:
+- Pruebas manuales
+- Pruebas de API
+- SQL y análisis de datos
+
+---
+
+## 🧰 Tecnología y herramientas
 QA:
-Jira • TestRail • Postman • Chrome DevTools
+Jira • TestRail • Cartero • Selenium •
+ Chrome DevTools • Postman
 
-Data:
-SQL • Excel • Power BI (learning)
+Datos:
+SQL • Excel • MySQL • PostgresSQL 
 
-Other:
+Otro:
 Git • GitHub • Agile • Scrum
 
 ---
 
-## 📂 My Portfolio Projects
+## 📂 Mis proyectos de portafolio
 
-### 🧪 QA Manual Testing
+### 🧪 Pruebas manuales de control de calidad
 🔗 [https://github.com/Decm299-QA/QA-Manual-Testing-Portfolio.git]
 
-Includes:
-- Test Plan
-- Test Cases
-- Bug Reports
-- Test Execution Reports
+Incluye:
+- Plan de pruebas
+- Casos de prueba
+- Informes de errores
+- Informes de ejecución de pruebas
 
 ---
 
-### 🔌 API Testing with Postman
+### 🔌 Pruebas de API con Postman
 🔗 [https://github.com/Decm299-QA/API-Testing-Postman.git]
 
-Includes:
-- Postman Collections
-- API Test Cases
-- Automated Tests
+Incluye:
+- Colecciones del cartero
+- Casos de prueba de API
+- Pruebas automatizadas
 
 ---
 
-### 📊 Data Analytics Portfolio
+### 📊 Portafolio de análisis de datos
 🔗 https://github.com/Decm299-QA/Data-Analytics-Portfolio.git
 
-Includes:
-- SQL database project
-- Sales dashboard
-- Amazon product research
+Incluye:
+- Proyecto de base de datos SQL
+- Panel de ventas
+- Investigación de productos de Amazon
 
 ---
 
-## 📫 Contact Me
-LinkedIn: (add your link here)
-Email: decm299@gmail.com
+## 📫 Contáctame
+LinkedIn: www.linkedin.com/in/decm299 
+Correo electrónico: decm299@gmail.com
 
----
 
-⭐ Open to Junior QA / Data Analyst opportunities
