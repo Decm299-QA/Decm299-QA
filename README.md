@@ -43,7 +43,7 @@ Includes:
 ---
 
 ### 🔌 API Testing with Postman
-🔗 https://github.com/YOUR-USERNAME/API-Testing-Postman
+🔗 [https://github.com/Decm299-QA/API-Testing-Postman.git]
 
 Includes:
 - Postman Collections
